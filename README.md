@@ -1,8 +1,7 @@
 # PowerForecasting
-Time Series Analysis and User Behaviour Learning to forecast power usage in a household. 
-
+Appliance-level power forecasting using various deep learning techniques and their operation time extraction for maintaining comfort in demand response.
 ## Dataset
-The Dataset used to test the performance of various models for the task at hand are [GreenD](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwjos-j4x6joAhXCW3wKHZkEDoUQFjACegQIAhAB&url=https%3A%2F%2Farxiv.org%2Fabs%2F1405.3100&usg=AOvVaw2-YXk54TvD_YqliJYqBUC8) and [UkDale](https://jack-kelly.com/data/). The resampled files of these datasets are present in the Data folder.
+Two Datasets are used to test the performance of various models for the task at hand are [GreenD](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwjos-j4x6joAhXCW3wKHZkEDoUQFjACegQIAhAB&url=https%3A%2F%2Farxiv.org%2Fabs%2F1405.3100&usg=AOvVaw2-YXk54TvD_YqliJYqBUC8) and [UkDale](https://jack-kelly.com/data/). The resampled files of these datasets are present in the Data folder.
 The models can be used for any new data, provided they are available in the given format. 
 
 ## Using 
